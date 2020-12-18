@@ -1,0 +1,16 @@
+header {
+    background-image: url("https://www.dessindigo.com/uploads/partition/nuages/dessin-couleur-nuage-peu-dense.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+header img {
+    height: 180px;
+    width: 180px;
+}
+
+.card {
+    width: 18rem;
+}
